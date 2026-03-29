@@ -1,3 +1,9 @@
+
+
+
+https://github.com/user-attachments/assets/e55ea2d5-1d7a-4689-a5ad-e4558a547957
+
+
 # RudeHabit
 
 **RudeHabit** is an iOS habit tracker built with SwiftUI. It helps users track daily habits with a deliberately irreverent tone: sarcastic motivation, “rude” reality checks, and accountability when habits slip.
