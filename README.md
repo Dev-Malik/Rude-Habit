@@ -84,7 +84,6 @@ To build and run, you typically need:
 | **Heapchat** | Support / chat; configured in `AppDelegate`. |
 | **Backend (HTTP)** | Missed-habit notification scheduling — base URL and API key live in `NotificationSchedulingService` (treat as sensitive). |
 
-**Security note:** Rotate any keys that were ever committed to source control, move secrets to Xcode configuration or a secure backend, and never ship production apps with long-lived client-side keys in the repository.
 
 
 
